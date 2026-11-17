@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Total>
+  <DialogChange>
+    <label_1>对码(Enter)</label_1>
+    <label_2>请勿同时插入多个设备！</label_2>
+    <label_3>插入USB自动配对</label_3>
+    <label_4>键盘配对</label_4>
+    <label_5>配置</label_5>
+    <label_6>量产对码软件 v3.0</label_6>
+    <label_7>已存在相同的CID和MID</label_7>
+    <label_8>确定</label_8>
+    <label_9>型号</label_9>
+    <label_10>设置 Vid Pid</label_10>
+    <label_11>添加</label_11>
+    <label_12>删除</label_12>
+    <label_13>型号:</label_13>
+    <label_14>加载图片</label_14>
+    <label_15>取消</label_15>
+    <label_16>序号</label_16>
+    <label_17>CID个数异常,请检查图片</label_17>
+    <label_18>地址接收完成，正在读取CID和MID...</label_18>
+    <label_19>配对中</label_19>
+    <label_20>配对失败</label_20>
+    <label_21>秒</label_21>
+    <label_22>地址: </label_22>
+    <label_23>已存在相同的VID和PID</label_23>
+    <label_24>配对成功</label_24>
+    <label_25>防抖时间: </label_25>
+    <label_26>DPI颜色: </label_26>
+    <label_27>恢复默认</label_27>
+    <label_28>进入MTK测试模式</label_28>
+    <label_29> 左键: 按下/抬起≥</label_29>
+    <label_30> 右键: 按下/抬起≥</label_30>
+    <label_31> 中键: 按下/抬起≥</label_31>
+    <label_32> 前进键: 按下/抬起≥</label_32>
+    <label_33> 后退键: 按下/抬起≥</label_33>
+    <label_34> 回报率切换键: 按下/抬起≥</label_34>
+    <label_35> DPI键: 切换≥</label_35>
+    <label_36> 滚轮功能: 上滚/下滚各≥</label_36>
+    <label_37> 划线测试: X/Y轴移动≥</label_37>
+    <label_38>次</label_38>
+    <label_39>格</label_39>
+    <label_40>MTK配置</label_40>
+    <label_41>功能测试</label_41> 
+    <label_42>按键测试</label_42> 
+    <label_43>正在恢复出厂设置...</label_43> 
+    <label_44>恢复出厂设置成功</label_44> 
+    <label_45>恢复出厂设置失败</label_45> 
+    <label_46>请输入产品型号</label_46> 
+    <label_47>请输入产品MID</label_47> 
+    <label_48>请选择产品图片</label_48> 
+    <label_49>请输入产品PID</label_49> 
+    <label_50>请输入产品VID</label_50> 
+    <label_51>程序处于运行状态</label_51> 
+    <label_52>确定</label_52> 
+    <label_53>VID格式不对</label_53> 
+    <label_54>PID格式不对</label_54> 
+    <label_55>VID不能为纯字母</label_55> 
+    <label_56>PID不能为纯字母</label_56> 
+    <label_57>键盘对码(Enter)</label_57>
+    <label_58>键盘对码中</label_58>
+    <label_59>键盘配对失败</label_59>
+    <label_60>键盘配对成功</label_60>
+    <label_61>测试:按下键盘任意键测试</label_61>
+    <label_62>1.按下键盘任意键测试</label_62>
+    <label_63>进入按键测试模式</label_63>
+    <label_64>进入MTK测试模式</label_64>
+    <label_65>按键测试配置</label_65>
+  </DialogChange>
+</Total>

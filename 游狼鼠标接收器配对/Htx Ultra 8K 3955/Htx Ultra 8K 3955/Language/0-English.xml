@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Total>
+  <DialogChange>
+    <label_1>Pair(Enter)</label_1>   
+    <label_2> do not insert several device at the same time</label_2>         
+    <label_3> insert USB for automatic pairing</label_3>                   
+    <label_4> keybaord pairing</label_4>                               
+    <label_5>deploy</label_5>                                       
+    <label_6>software for mass-produce code-matching v3.0</label_6>                   
+    <label_7> same CID and MID already existed </label_7>          
+    <label_8> confirm</label_8>                                     
+    <label_9> model</label_9>                                      
+    <label_10>setup Vid Pid</label_10>                           
+    <label_11>add</label_11>                                    
+    <label_12>  delete</label_12>                                  
+    <label_13> model:</label_13>                                  
+    <label_14> image loading</label_14>                             
+    <label_15>cancel</label_15>                               
+    <label_16>serial number</label_16>                                    
+    <label_17>the number of Cids is abnormal, please check the image</label_17>       
+    <label_18>the address reception is completed, CID and MID are being read...</label_18>      
+    <label_19> under pairing</label_19>                              
+    <label_20>pairing failure</label_20>                             
+    <label_21>seconds</label_21>                                     
+    <label_22>address: </label_22>                                 
+    <label_23> same VID and PID already existed</label_23>         
+    <label_24>pairing finished</label_24>                             
+    <label_25>debounce time: </label_25>                           
+    <label_26>DPI color: </label_26>                            
+    <label_27>restore default</label_27>                             
+    <label_28>enter into MTK testing mode</label_28>               
+    <label_29> left click: press/lift≥</label_29>               
+    <label_30> right click: press/lift≥</label_30>               
+    <label_31>  middle click: press/lift≥</label_31>              
+    <label_32>  forward click: press/lift≥</label_32>         
+    <label_33>backward click: press/lift≥</label_33>            
+    <label_34> polling rate button: press/lift≥</label_34>  
+    <label_35> DPI button: switchover≥</label_35>                 
+    <label_36> scroll function: up/down≥</label_36>    
+    <label_37> scribing test: X/Y axis movement≥</label_37>       
+    <label_38> times</label_38>                                    
+    <label_39>space</label_39>                             
+    <label_40>MTK setting</label_40>                           
+    <label_41>function testing</label_41>                           
+    <label_42>click testing</label_42>                           
+    <label_43> the factory settings are being restored...</label_43>           
+    <label_44>succeed to restore factory settings</label_44>              
+    <label_45>failed to restore factory settings</label_45>              
+    <label_46>enter product model</label_46>                 
+    <label_47> enter product MID</label_47>                
+    <label_48>select product image</label_48>                 
+    <label_49> enter product PID</label_49>                 
+    <label_50> enter product VID</label_50>                 
+    <label_51>the program is running</label_51>              
+    <label_52>confirm</label_52>                                 
+    <label_53>VID format wrong</label_53>                     
+    <label_54> PID format wrong</label_54>                   
+    <label_55>VID can not be only letters</label_55>              
+    <label_56>PID cna not be only letters</label_56>              
+    <label_57>keyboard pairing(Enter)</label_57>                
+    <label_58>keyboard is under pairing</label_58>                       
+    <label_59>keyboard pairing failed</label_59>                    
+    <label_60>keyboard pairing succeed</label_60>                    
+    <label_61>test: press any key of the keyboard to start testing</label_61>   
+    <label_62>1. press any key of the keyboard to start testing</label_62> 
+    <label_63>Key Test Mode</label_63>
+    <label_64>MTK Test Mode</label_64>
+    <label_65>Key Test Setting</label_65>     
+  </DialogChange>
+</Total>
