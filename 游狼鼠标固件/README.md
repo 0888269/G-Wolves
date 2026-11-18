@@ -87,19 +87,19 @@ GW 为芯谷方案，JM 为匠盟方案；未明确标记的配置保留网站�
 - HTXU / `JM_056_3955`：已收录解压文件
   - 来源：https://www.mouse.fit/Config/JM_056_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/02-056-htxultra/3955/htxultra-3955JM.zip
-- HTS Plus / `JM_054_3955`：已下载，但上传中断，尚未收录
+- HTS Plus / `JM_054_3955`：已收录解压文件
   - 来源：https://www.mouse.fit/Config/JM_054_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/01-054-HTS_Plus_8K/3955/HTS_Plus_8k_3955JM.zip
 - Fenrir Pro / `JM_036_3955`：下载失败，尚未收录此次下载包
   - 来源：https://www.mouse.fit/Config/JM_036_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/05-036-FEN_Pro_8K/3955/FEN_Pro_8K_3955JM.zip
-- HTX Mini / `JM_027_3955`：已下载，但上传中断，尚未收录
+- HTX Mini / `JM_027_3955`：已收录解压文件
   - 来源：https://www.mouse.fit/Config/JM_027_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/06-027-HTX_Mini/HTX_MiniJM.zip
 - WARG / `JM_042_3955`：下载失败，尚未收录此次下载包
   - 来源：https://www.mouse.fit/Config/JM_042_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/11-042-Warg_8K/3955/Warg_8K_3955JM.zip
-- HTS Plus Pro / `JM_052_3955`：已下载，但上传中断，尚未收录
+- HTS Plus Pro / `JM_052_3955`：已收录解压文件
   - 来源：https://www.mouse.fit/Config/JM_052_3955/FWLINK.txt
   - 下载：https://www.mouse.fit/firmware/10-052-HTS_PLUS_Pro_8K/3955/HTS_PLUS_Pro_8K_3955JM.zip
 - Fenrir Asym / `JM_035_3955`：暂无下载链接
