@@ -1,0 +1,27 @@
+G-Wolves hts plus pro Firmware V5.30 Update Manual
+Firmware Version: V5.30|Model: G-Wolves hts plus pro|Release Date: October 2026
+1. Overview
+This firmware update focuses on Rapid Trigger (RT) optimization and button stability improvements, and includes 4 changes: a new release-point rule when RT is off, optimized debounce for mouse-landing false triggers, a new Long-Press Anti-Intermittent-Click feature, and disabling the USB power-on button check to prevent upgrade failures.
+2. Change Details
+2.1 Release Point Adjustment When RT Is Off
+When the RT (Rapid Trigger) feature is turned off, the release point is automatically set as: Release Point = Actuation Point - 5. No manual configuration is required; the firmware applies this rule automatically.
+2.2 False Trigger Optimization on Landing
+To address false triggers caused when the mouse is lifted into the air and dropped back onto the desk, this update adds a 100ms debounce time, which effectively filters out erroneous signals generated at the moment of landing.
+2.3 Long-Press Anti-Intermittent-Click (New)
+This new feature prevents intermittent clicks (click drop-out) while a button is held down. Details:
+How to toggle: Long-press both side buttons to turn the feature on or off. It is disabled by default at the factory.
+LED feedback: The LED flashes green 3 times when enabled; it flashes red 3 times when disabled.
+Effective condition: Only works while the RT feature is turned on.
+Trigger logic: Takes effect after the button has been held for 1 second — if the configured actuation point is greater than 5, the release point is fixed at level 5; if the configured actuation point is 5 or less, the release point is set to the actuation point minus 1.
+Debounce time: The release debounce time is 30ms.
+2.4 USB Power-On Button Check Disabled
+The button check performed when USB power is applied has been disabled, preventing firmware upgrades from failing when a button is held down during the upgrade process.
+3. LED Status Reference
+Action | LED Feedback
+Long-press both side buttons to enable Long-Press Anti-Intermittent-Click | Green LED flashes 3 times
+Long-press both side buttons to disable Long-Press Anti-Intermittent-Click | Red LED flashes 3 times
+4. Important Notes
+Long-Press Anti-Intermittent-Click is disabled by default and must be enabled manually by long-pressing both side buttons.
+Long-Press Anti-Intermittent-Click only takes effect when the RT feature is on; settings are ignored when RT is off.
+Do not hold any button down while upgrading the firmware, as this may disrupt the upgrade process.
+After upgrading, it is recommended to review your actuation point and release point settings to make sure they match your preferences.
