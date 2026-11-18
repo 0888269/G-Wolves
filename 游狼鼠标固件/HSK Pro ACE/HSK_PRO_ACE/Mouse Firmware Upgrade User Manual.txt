@@ -1,0 +1,21 @@
+Mouse Firmware Upgrade User Manual
+February 4, 2024
+
+Firmware Upgrade Instructions:
+
+1. ★ Upgrade Order:
+First, upgrade the receiver firmware, then the mouse firmware. Be sure to connect the mouse with a USB cable during the upgrade. 
+Ensure that both the mouse and receiver have sufficient battery and remain connected. If the wireless function does not work after upgrading, restart your computer and upgrade again. 
+If you encounter any problems, please contact customer support at support@g-wolves.com.
+
+2. ★ Receiver Firmware Upgrade Steps:
+
+   1>  Open the receiver firmware upgrade tool.
+   2>  Follow the instructions provided by the tool.
+   3>  Upon successful upgrade, “PASS” will be displayed, then close the tool.
+3. ★ Mouse Firmware Upgrade Steps:
+
+   1>Ensure that the receiver firmware has been upgraded successfully, then connect the mouse with a USB cable and launch the mouse firmware upgrade tool.
+   2>Follow the instructions provided by the tool.
+   3>Upon successful upgrade, “PASS” will be displayed, then close the tool.
+4. ★ Close all upgrade tools to complete the upgrade process.

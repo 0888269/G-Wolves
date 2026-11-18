@@ -1,0 +1,806 @@
+[
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.01/Step1-Receiver_09.01.exe",
+    "sha256": "2576fa8374ba324c095efc9d1dbce0b01e75f69f58966403f56abe19977ef985",
+    "git_blob_sha": "8b6deba2cd5f5a7e836945a43bdb005fb4d1cb95",
+    "size": 1547592
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.01/Step2-HTM_Plus_8K_Mouse_09.01.exe",
+    "sha256": "7a528d8d5ee5894a95fe6a747fd88d955ab95fd7922c6b72d7e379564c40fc12",
+    "git_blob_sha": "07c75c01673ca2af28d70f5416b86afaf979c0a4",
+    "size": 1601128
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.01/★ReadMeFirst.txt",
+    "sha256": "cfecc0e541abe74664de0c8b195a074c95b29842a6945a0274b2d1c69953cfdd",
+    "git_blob_sha": "a52df2c1e8409282934bcd0778cf40c5d880cb6d",
+    "size": 2103
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.03/Step1-Receiver_09.01.exe",
+    "sha256": "bdea80e59fe4bcdfa55e87ff4fc5ef5d4e3ddbbeb30d162e7a717bf139e1a98f",
+    "git_blob_sha": "933afbeaeb7b871afb85d8bfb4f8c7de91c758f4",
+    "size": 1547592
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.03/Step2-HTM_Plus_8K_Mouse_09.03.exe",
+    "sha256": "42df90625c8fc1c57437054a0142c420471857dc21a7e18996128166d0e85aaf",
+    "git_blob_sha": "c4abb80b93f0c9c25d1f62ab5300e023c67039d6",
+    "size": 2262152
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.03/★ReadMeFirst.txt",
+    "sha256": "82f37fdfcc42c65a674c1447aecca09bedfe5f9a0f40b3ad779f07778c1e14a5",
+    "git_blob_sha": "fc32d7d3b309096b5965962859471ad81fe5d7c2",
+    "size": 2103
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.04/Step1-Receiver_09.02.exe",
+    "sha256": "809b5a093638ee178a8e261f6db4f3a794b7873880119aae89f0c809f10a1d1f",
+    "git_blob_sha": "6162836a77726194314b01cbaebb6902fc4b5173",
+    "size": 2209728
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.04/Step2-HTM_Plus_Mouse_09.04.exe",
+    "sha256": "ad19d0b9b7c815cece84689225fdbdb93acc5aafa5031e3737c676aab3392092",
+    "git_blob_sha": "b13beab10322d22d9a213bcd1adaa4a0a55fa907",
+    "size": 2263104
+  },
+  {
+    "path": "游狼鼠标固件/HTM Plus/GW_058/HTM_Plus_54XG/HTM_Plus_8K_0.9.04/★ReadMeFirst.txt",
+    "sha256": "2240a37d4674d8087639ff34f175a6164b83e0bb4304d796a02c23f4d4ccff5e",
+    "git_blob_sha": "634373d35ff09d0d1a7cd398324e0685711fdced",
+    "size": 2097
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.02/Step1-Receiver_09.01.exe",
+    "sha256": "afbbfc070dbd55922918c53bf4de8210eb5c0b5a05ef681bebb98b22d68da2e4",
+    "git_blob_sha": "df73d22d7e490f6112cd041fac9fcefeecbfd160",
+    "size": 1534235
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.02/Step2-HTX_Ultra_Mouse_09.02.exe",
+    "sha256": "4125cc1279ca54602c62a9aa6d831caf79807c34c3f6d01f24008ab8e59c014a",
+    "git_blob_sha": "6c12bf9c3ab4430cfeb60d23ba014df7cbfd619e",
+    "size": 1600968
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.02/★ReadMeFirst.txt",
+    "sha256": "c9aa21cddfea5aaedb4970680d8bbac66637b527811296927afe5ef053796519",
+    "git_blob_sha": "531678f0fea089bc87c191dfb47564f8ff1cda27",
+    "size": 2099
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.03/Step1-Receiver_09.01.exe",
+    "sha256": "afbbfc070dbd55922918c53bf4de8210eb5c0b5a05ef681bebb98b22d68da2e4",
+    "git_blob_sha": "df73d22d7e490f6112cd041fac9fcefeecbfd160",
+    "size": 1534235
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.03/Step2-HTX_Ultra_Mouse_09.03.exe",
+    "sha256": "72daf8f8e0e416368a40afffa0f6c073c35933cd0639283d16eebca8b3ac257b",
+    "git_blob_sha": "dd1792836c785f90aa49d71bec6e727d220de922",
+    "size": 2262064
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.03/★ReadMeFirst.txt",
+    "sha256": "c1b103caf657db31a4680318376a988518b1f1515ba19fdd41cfa85b2d6aaf53",
+    "git_blob_sha": "e193bbeae66c94d3652e4a675496db76f3026fec",
+    "size": 2099
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.04/Step1-Receiver_09.02.exe",
+    "sha256": "d6127bd5c00a8921967a39aad8f7c28e09e8f2df560912987e86b0874338d88f",
+    "git_blob_sha": "1583b205dcc75d812becf88386456c0db23f27e0",
+    "size": 2209728
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.04/Step2-HTX_Ultra_Mouse_09.04.exe",
+    "sha256": "aede9a70a8d9675acc4214dbf2b6028087fdeb86431e397ff7668f188c2270ee",
+    "git_blob_sha": "0b0c532ea7ccb45a6b26de99f8bae0b02c6d9f38",
+    "size": 2260288
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/GW_056/HTX_Ultra_54XG/HTX_Ultra_8K_0.9.04/★ReadMeFirst.txt",
+    "sha256": "824c0fea3a1b3242d427174d449aa3d2444f841d90787ffe68b8e41f197c10a6",
+    "git_blob_sha": "d14fd8a5ade89113cb1a702404c79a1ff970807d",
+    "size": 2099
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.01/Step1-Receiver_09.01.exe",
+    "sha256": "afbbfc070dbd55922918c53bf4de8210eb5c0b5a05ef681bebb98b22d68da2e4",
+    "git_blob_sha": "df73d22d7e490f6112cd041fac9fcefeecbfd160",
+    "size": 1534235
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.01/Step2-Fen_Pro_Mouse_09.01.exe",
+    "sha256": "d055a38210f829149a38bac74265439f05ece1fe55f378fe96ab8c01b709205e",
+    "git_blob_sha": "4ca4af47aa2ae2d739526dcd5ed2ce1f315856bb",
+    "size": 2259664
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.01/★ReadMeFirst.txt",
+    "sha256": "8d60c6f182c44df8b16d2e01e25e3170fc5a061e20e85c6ec84708cd6fc42ad4",
+    "git_blob_sha": "d09849ee41577bbdd41bf8fb3aa3475cdbecc5fb",
+    "size": 2095
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.03/Step1-Receiver_09.01.exe",
+    "sha256": "afbbfc070dbd55922918c53bf4de8210eb5c0b5a05ef681bebb98b22d68da2e4",
+    "git_blob_sha": "df73d22d7e490f6112cd041fac9fcefeecbfd160",
+    "size": 1534235
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.03/Step2-Fenrir_Pro_Mouse_09.03.exe",
+    "sha256": "c1db47ba9e09c23f0aad131fe81003d4e153f9a4bcd3ca685c869b207032098f",
+    "git_blob_sha": "1fa1cfe95eab3547b22e04bd98b4d945e8662677",
+    "size": 2259616
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.03/★ReadMeFirst.txt",
+    "sha256": "e92f34f23a7cdc0bbbac7f5d1b7ee3750254a4e27a55619e749b176cd7215f22",
+    "git_blob_sha": "c24702d58aa3688a0196d44232144aa16bed40ae",
+    "size": 2101
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.04/Step1-Receiver_09.02.exe",
+    "sha256": "81363e49607c30bcd4bafcc02aa90a9a4eaa650b0fc55623d5c643c47010b18e",
+    "git_blob_sha": "bd39a22278ff670c776b6964b266bd2e19e3ead4",
+    "size": 2209728
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.04/Step2-Fen_Pro_Mouse_09.04.exe",
+    "sha256": "db70fa628855dd04e0df7befe4dee736b80d37c5c88e6c47c9a1110d9833c880",
+    "git_blob_sha": "74fa635c13ff3af7d0b8dad3b0d624355f17fa50",
+    "size": 2261040
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Pro/GW_036/Fen_Pro_54XG/Fen_Pro_0.9.04/★ReadMeFirst.txt",
+    "sha256": "f40a9f0f0c84d41240548b30a273bea21906dd9b94cef85695f8cd0cab0127b0",
+    "git_blob_sha": "079ecfbfcad35959b5bf0ea77df18787c075cb69",
+    "size": 2095
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.3/G-Wolves 8K Receiver 01.00.40.exe",
+    "sha256": "e4f8ccbfa998cd7b51981e77523e93028fd656b317591897135a1358ebb2c08c",
+    "git_blob_sha": "8c993105f5b176afff466d89f9014f83e9437783",
+    "size": 1507680
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.3/VUK-8K Mouse 01.00.40.03.exe",
+    "sha256": "ee72ca9eed6393719fe07a9e4af0b4e4f403dd2a88914d8c7739d94dc7b7c316",
+    "git_blob_sha": "fc4a0de20c6e065fa78051eb32b01449746b4a0e",
+    "size": 1587320
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.3/★ReadMeFirst.txt",
+    "sha256": "ed327c87327390c6a3823a17110124a0bc5bd914a1fa15bd38dcd63ea27e0324",
+    "git_blob_sha": "188f276cb5128d585492cf085372aa17d0911dac",
+    "size": 2106
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.2/G-Wolves 8K Receiver 01.00.40.exe",
+    "sha256": "e4f8ccbfa998cd7b51981e77523e93028fd656b317591897135a1358ebb2c08c",
+    "git_blob_sha": "8c993105f5b176afff466d89f9014f83e9437783",
+    "size": 1507680
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.2/VUK-8K Mouse 01.00.40.02 Fac 33E4 3908 1 20251011_21_48_29.exe",
+    "sha256": "b67203d4d21e77d8e239a312824efaa42d13920a25c851410cca8ff03e0674eb",
+    "git_blob_sha": "3b02c6be76ab7a5f78fa4aa7cf59aaa4316c7d6d",
+    "size": 1572361
+  },
+  {
+    "path": "游狼鼠标固件/VUK/VUK/1.0.40.2/★ReadMeFirst.txt",
+    "sha256": "ed327c87327390c6a3823a17110124a0bc5bd914a1fa15bd38dcd63ea27e0324",
+    "git_blob_sha": "188f276cb5128d585492cf085372aa17d0911dac",
+    "size": 2106
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.39/Fenrir Max 8K Mouse 01.00.39.00.exe",
+    "sha256": "a87a9e816104ee2e0347aec29131366c7d1c3522e220462c0fb1f03098af36e0",
+    "git_blob_sha": "b9b85e324b7c38eb7fb654f2a83be4f363f6312d",
+    "size": 1577744
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.39/G-Wolves 8K Receiver 01.00.39.00.exe",
+    "sha256": "ee4c95dab7d0dbf891902e77e0a243b73480069fe12d33d4d6249350b8c53b65",
+    "git_blob_sha": "4b7cca7bf2be7ab0dc4e78f383d034c5169fb10e",
+    "size": 1507616
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.39/★ReadMeFirst.txt",
+    "sha256": "a6748b4dd53f3751470f6291873501441b4bb7f99dbffa94dd85b1f45abd1968",
+    "git_blob_sha": "095766bb5413328a4962050f749c7f9f1f9e240b",
+    "size": 1297
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.37/Fenrir Max-Mouse 01.00.37.02.exe",
+    "sha256": "c0c2ab261ef28cb52185f47cf04ec9e0638e5750270aab1b10173c3e6ef362f8",
+    "git_blob_sha": "14587f97e1df1b1a5965ca27b40860afa1f1d0f2",
+    "size": 1561388
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.37/G-Wolves 8K Receiver 01.00.37.01.exe",
+    "sha256": "61e86a90160283d0487b872cb3c9fca68eb510bc790dabe14d3f77806c84a8cb",
+    "git_blob_sha": "5acbe4b9f37f21938e07a41f72e8784e4732adc9",
+    "size": 1494252
+  },
+  {
+    "path": "游狼鼠标固件/Fenir Max/Fenir/1.0.0.37/★ReadMeFirst.txt",
+    "sha256": "50124940a4c3d1c1d5e40d7e87a364590a836a5b49d80abbb75fcec06889360e",
+    "git_blob_sha": "f7376a747aeb4606d77ad51b3ac606e474ae6864",
+    "size": 1309
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.39/G-Wolves 8K Receiver 01.00.39.00.exe",
+    "sha256": "ee4c95dab7d0dbf891902e77e0a243b73480069fe12d33d4d6249350b8c53b65",
+    "git_blob_sha": "4b7cca7bf2be7ab0dc4e78f383d034c5169fb10e",
+    "size": 1507616
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.39/HTS Ultra 8K Mouse 01.00.39.00.exe",
+    "sha256": "119cd6dba13c66d6aa1d227c2be8057bb438ffcd1bf4808b648115d73a3217ae",
+    "git_blob_sha": "7bcc40fb1e4b4632293c2b0210ee4824b0260ce2",
+    "size": 1577760
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.39/★ReadMeFirst.txt",
+    "sha256": "cba9eb8346e5294349dcb5d741d1822285110758514301fe3b1b7f4109db2ef8",
+    "git_blob_sha": "1b79a7c798f16b064e2b6dbf6b9e0be3859ab8fc",
+    "size": 1301
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.37/HTS-Ultra Mouse.exe",
+    "sha256": "442f1497485cabe614a3ff88bd209f7043cf2bfd5151927fc0e6eb91ff80f8af",
+    "git_blob_sha": "658d21554262f356cd29d91d8eb75ba2df2ca493",
+    "size": 1569432
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.37/Receiver.exe",
+    "sha256": "80bb635de7a8fc3b202032ba40e24d56d5820176a757870f5e98495b4d305863",
+    "git_blob_sha": "d4829e57f99a94dcf4754133ac0fe5a5e6f23624",
+    "size": 1507544
+  },
+  {
+    "path": "游狼鼠标固件/HTS Ultra/HTS_ULTRA/1.0.0.37/★ReadMeFirst.txt",
+    "sha256": "c9dcc7413b965364320e8ba54b71db947d88d8977f0af5d5ccdfa53aedcde4aa",
+    "git_blob_sha": "b5f89929d9e0760853415fff05f97cd433053c90",
+    "size": 1232
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.39/Fenrir Asym 8K Mouse 01.00.39.00.exe",
+    "sha256": "51c1f00b89e00486e63bc205de6893b22b584e54d9ad9d94154886395fa9b0cd",
+    "git_blob_sha": "6965cf82f369f325313a38d7d368f4aa5bc4e2b2",
+    "size": 1577752
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.39/G-Wolves 8K Receiver 01.00.39.00.exe",
+    "sha256": "ee4c95dab7d0dbf891902e77e0a243b73480069fe12d33d4d6249350b8c53b65",
+    "git_blob_sha": "4b7cca7bf2be7ab0dc4e78f383d034c5169fb10e",
+    "size": 1507616
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.39/★ReadMeFirst.txt",
+    "sha256": "4036b93bbff3d9b6f10e4117196dc58bfeb8eb07fe32ac9c1ba1b01c6844c830",
+    "git_blob_sha": "dc0672fe4815ca6fdf0506356a52b664f92b96d4",
+    "size": 1299
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.37/Fenrir Asym Mouse 01.00.37.02.exe",
+    "sha256": "e2b200637c0c7fd35a1ad40853eb93f14c5c3886e9683119074b543669905059",
+    "git_blob_sha": "f079622ce6ffd6ea6df594e9bc18694874a92e48",
+    "size": 1561389
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.37/G-Wolves 8K Receiver 01.00.37.01.exe",
+    "sha256": "61e86a90160283d0487b872cb3c9fca68eb510bc790dabe14d3f77806c84a8cb",
+    "git_blob_sha": "5acbe4b9f37f21938e07a41f72e8784e4732adc9",
+    "size": 1494252
+  },
+  {
+    "path": "游狼鼠标固件/Fenrir Asym/Fenir_asym/1.0.0.37/★ReadMeFirst.txt",
+    "sha256": "43d114151b43ffbd4da44144cf4473d45df4cbe00073a001e57c3fd571ed7249",
+    "git_blob_sha": "e52e6a7ccba27abff41beab2eb3206647df1eecf",
+    "size": 1311
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.23/HTS Plus 4K Mouse 01.00.23.00.exe",
+    "sha256": "aeec5a66aed19f61d6e5dfb84ad202f53b2ee3a08a6a298f867c61c8587f6172",
+    "git_blob_sha": "73fad06df06fb778dbc7e21cffce836d945b5250",
+    "size": 1517048
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.23/HTS Plus 4K Receiver 01.00.23.00.exe",
+    "sha256": "768681e9d10c4845fd83bc1925317a23d3553686309149bb3007fe5e8da026cd",
+    "git_blob_sha": "76c2425f4336f9b4ecaa4e282d6d5f6e0bd7fcc5",
+    "size": 1450544
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.23/ReadMe.txt",
+    "sha256": "af0d8f4b46e2575d99e13ebd7c65a088de1ab0025683cd21db27a1551a8b0846",
+    "git_blob_sha": "e0064dfccac8a0e35d4da5dd35d7ab29c273ece4",
+    "size": 585
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.35/HTS054-4K Mouse 01.00.35.00 Fac 33E4 5408 1 20241105_22_33_19.exe",
+    "sha256": "72133d832fa3ddb9cd72e385740ebe1d5d7a4a8902c95cf8eac3270207e4207c",
+    "git_blob_sha": "169baeb926f38b3d3ab446ddf2edab25053b1069",
+    "size": 1557832
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.35/HTS054-4K Receiver 01.00.35.00 Fac 33E4 5407 2 20241105_22_33_44.exe",
+    "sha256": "8fe5ae201d2cc71f982e5cd946511a8cd789c25c5d20303b80dacbaff1ea7b4d",
+    "git_blob_sha": "67baee72e005741cdbc1846fee080afcdf7b574a",
+    "size": 1487592
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K Firmware/Stable Version/1.0.0.35/ReadMe.txt",
+    "sha256": "af0d8f4b46e2575d99e13ebd7c65a088de1ab0025683cd21db27a1551a8b0846",
+    "git_blob_sha": "e0064dfccac8a0e35d4da5dd35d7ab29c273ece4",
+    "size": 585
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/hidapi.dll",
+    "sha256": "61293f81f4eb227a3e238f6b4bdfd23b7748133f510a656c22ebd8f5f9f12138",
+    "git_blob_sha": "059d9615a3b4d35dbfed5679fe4054fc27d2abef",
+    "size": 96240
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/step1.8K_Receiver_Firmware.exe",
+    "sha256": "92ed007212257472ad1c058101839e56c944448460faa04802fc96b5c1a5b9fd",
+    "git_blob_sha": "2b8b983e20277508d1f28efaeffb55294657a765",
+    "size": 1501160
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/step2.HTS_Plus_8K_Mouse_Firmware.exe",
+    "sha256": "c766b74f8daa2740ffb904ffd91597eb5ef2ae726bc2d4056e023fa1286324b4",
+    "git_blob_sha": "1d4d56a7b6e4264aab6f79d1585b49b1c927ad9f",
+    "size": 1564704
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/step3.pair_tools-2.exe",
+    "sha256": "a99cdc370aecd2e8ef7f46cc87422e9563b41ed329c5191ed3814060e6ef7879",
+    "git_blob_sha": "b6cd22405fef0c45c27b0af047db45ab57150725",
+    "size": 2396656
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/step3.pair_tools.exe",
+    "sha256": "05e97fa168d2efeae25eeedd7c339a4afcde16e30152d77f98db990b5f9a90ef",
+    "git_blob_sha": "9fa18f5f6ac8ecb52e66c9e8d13690cdc032ed5f",
+    "size": 550136
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/4K upto 8K Firmware(Only For 8K Receiver)/★ReadMeFirst.txt",
+    "sha256": "4d6f674c5703bfecfec4c19d12cbcfc83779c9af540184c1010ec4926f536fe0",
+    "git_blob_sha": "485ebdba70a2227f59551a34f6fb06ad861ad379",
+    "size": 2186
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.0.39/G-Wolves 8K Receiver 01.00.39.00.exe",
+    "sha256": "ee4c95dab7d0dbf891902e77e0a243b73480069fe12d33d4d6249350b8c53b65",
+    "git_blob_sha": "4b7cca7bf2be7ab0dc4e78f383d034c5169fb10e",
+    "size": 1507616
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.0.39/HTS plus 8K Mouse 01.00.39.00.exe",
+    "sha256": "53a27c12932b1f1f19f86cafb51ba84a20680ced28f6db26a1b43b9d52124c21",
+    "git_blob_sha": "afdc5a42661717a38eb3c37c3565848b7573ae0b",
+    "size": 1577704
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.0.39/★ReadMeFirst.txt",
+    "sha256": "e362f297b4b20e03af641e125d6d952fc04b735cea1ab0df87e676a0b3df8dd6",
+    "git_blob_sha": "8768d3921125c8ceb609a8b0e7a4ae1045f658a0",
+    "size": 1297
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.035/HTS PLUS-8K Mouse 01.00.35.00 Fac 33E4 5408 1 20240930_23_18_34.exe",
+    "sha256": "22eceea78f2f13dc507777cd94bcaa37a3d40853bc5185761a6e85aa6cd7d4bd",
+    "git_blob_sha": "4d2be687fd6a3ad1b7fa7703639ad8a64ece075a",
+    "size": 1563744
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.035/HTS PLUS-8K Receiver 01.00.35.00 Fac 33E4 5417 2 20240930_23_26_36.exe",
+    "sha256": "41ad185a72f02269d378e9a9324bcd5b47b3e443243eb477675b133af1945fc2",
+    "git_blob_sha": "31fbaa261a1b1714d98774bf99aefa6b6248ee75",
+    "size": 1500176
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.035/★ReadMeFirst.txt",
+    "sha256": "4cfe840179538f81eb58bffcdf90cefaa395cd2e9be1db9eb921c715171ad57d",
+    "git_blob_sha": "399aa28a349d876d98736dbfdde00ef55179ba2d",
+    "size": 1338
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.036/HTS054-8K Mouse 01.00.36.00 Fac 33E4 5408 1 20241013_22_01_25.exe",
+    "sha256": "c766b74f8daa2740ffb904ffd91597eb5ef2ae726bc2d4056e023fa1286324b4",
+    "git_blob_sha": "1d4d56a7b6e4264aab6f79d1585b49b1c927ad9f",
+    "size": 1564704
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.036/HTS054-8K Receiver 01.00.36.00 Fac 33E4 5417 2 20241013_19_11_09.exe",
+    "sha256": "aecce22a53ad0894277f192afe88aec611a5ca0eb32e172f6272b5d87b97cc87",
+    "git_blob_sha": "a2521b1048b6809ef2d1f313bbfc6d21f444d202",
+    "size": 1501160
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/HTS_PLUS/HTS_Plus_Firmware/8K Firmware(Only For 8K Receiver)/1.0.036/★ReadMeFirst.txt",
+    "sha256": "4cfe840179538f81eb58bffcdf90cefaa395cd2e9be1db9eb921c715171ad57d",
+    "git_blob_sha": "399aa28a349d876d98736dbfdde00ef55179ba2d",
+    "size": 1338
+  },
+  {
+    "path": "游狼鼠标固件/HSK Lite/HSK_LITE/HSK_PLUS_LITE_MOUSE.exe",
+    "sha256": "82e0836225a51832db10c3f817960587ffee6d0aef4f7aaf7cdd9bdcacb37017",
+    "git_blob_sha": "f5c87aa606521325817e36db272e81353049eeac",
+    "size": 1506005
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Beta Version/HTR+077-02-8K Mouse 01.00.34.00 Fac 33E4 7708 1 20240911_16_54_28.exe",
+    "sha256": "95f366fca8d92a3e1a30655d2762bcb40eb0151320c58a0787a867e6e1325841",
+    "git_blob_sha": "5193f53ab2d28cd9bf107a4b7cdad86a10b99b60",
+    "size": 1563800
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Beta Version/HTR+077-02-8K Receiver 01.00.34.00 Fac 33E4 7717 2 20240911_17_37_26.exe",
+    "sha256": "8ae7b0116fd33670b9f224e3daca83c4173506673470f2f03468948e121141b5",
+    "git_blob_sha": "65911314f5747ed94154b93ab01bd0f83c957f56",
+    "size": 1500176
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Beta Version/★ReadMeFirst.txt",
+    "sha256": "f9883e2a19d28fbd4c4eddafd7e8cd7f16607146ff8aa78e01fb68a5ca8c8f67",
+    "git_blob_sha": "e6baa2589f8febec3f24ddf4900c095fffb0d025",
+    "size": 1340
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/0.0.17/HTR+077-02-8K Mouse 00.00.17.00 Fac 33E4 7708 1 20240517_21_50_40.exe",
+    "sha256": "05ff82f4a709d036ad84974a129b379e1990e956cd0d1d331abae06111165023",
+    "git_blob_sha": "ad57e06bd61730ff9d19f266aa4a71a0741922a1",
+    "size": 1564768
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/0.0.17/HTR+077-02-8K Receiver 00.00.17.00 Fac 33E4 7717 2 20240517_21_52_46.exe",
+    "sha256": "46a3c1a8f006babb0132f11f0cb51b4b46ec10d27ff4b6085c4c00910cc9672e",
+    "git_blob_sha": "bdbb635ab8c50d60e74c4d71bd51d784f776db4e",
+    "size": 1496872
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/0.0.17/★ReadMeFirst.txt",
+    "sha256": "f9883e2a19d28fbd4c4eddafd7e8cd7f16607146ff8aa78e01fb68a5ca8c8f67",
+    "git_blob_sha": "e6baa2589f8febec3f24ddf4900c095fffb0d025",
+    "size": 1340
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.35/HTR Pro-8K Mouse 01.00.35.00 Fac 33E4 7708 1 20240930_23_23_45.exe",
+    "sha256": "e4b2dcb186ad73944a5ea8fcea5fbe91937950ab75fb007f0845a5738f61622c",
+    "git_blob_sha": "26b55d3d709bf654df4f2b1ed5cbed6944f3bfae",
+    "size": 1563800
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.35/HTR Pro-8K Receiver 01.00.35.00 Fac 33E4 7717 2 20240930_23_25_32.exe",
+    "sha256": "816514e4579128e95889b9f646122c61e166efa671bdb32003fa0c95f89fc4b2",
+    "git_blob_sha": "358bc46995d39933249bbf57710d8b7cd4add6c7",
+    "size": 1500176
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.35/★ReadMeFirst.txt",
+    "sha256": "f9883e2a19d28fbd4c4eddafd7e8cd7f16607146ff8aa78e01fb68a5ca8c8f67",
+    "git_blob_sha": "e6baa2589f8febec3f24ddf4900c095fffb0d025",
+    "size": 1340
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.36/HTR+077-02-8K Mouse 01.00.36.00 Fac 33E4 7708 1 20241013_19_25_14.exe",
+    "sha256": "a4c2eb6842f146f4117313ee5974175da92749908eaed3a5a40fcd50285443cf",
+    "git_blob_sha": "6b236e203fb92acef5fd3306edbaf7e875740861",
+    "size": 1564768
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.36/HTR+077-02-8K Receiver 01.00.36.00 Fac 33E4 7717 2 20241013_19_11_43.exe",
+    "sha256": "bdad5a90aee8f4450d4e3fcf49fb22e7e2b07f010f494951e78240f61b2af1ff",
+    "git_blob_sha": "6275542ee4d0c76a18549816f16e8a821d2e0630",
+    "size": 1501168
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.36/★ReadMeFirst.txt",
+    "sha256": "f9883e2a19d28fbd4c4eddafd7e8cd7f16607146ff8aa78e01fb68a5ca8c8f67",
+    "git_blob_sha": "e6baa2589f8febec3f24ddf4900c095fffb0d025",
+    "size": 1340
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.39/G-Wolves 8K Receiver 01.00.39.00.exe",
+    "sha256": "ee4c95dab7d0dbf891902e77e0a243b73480069fe12d33d4d6249350b8c53b65",
+    "git_blob_sha": "4b7cca7bf2be7ab0dc4e78f383d034c5169fb10e",
+    "size": 1507616
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.39/HTR Pro 8K Mouse 01.00.39.00.exe",
+    "sha256": "2327ec0b8510b73bc1b51ecc06fa459374db7a9867babfb07a5169784c7535c7",
+    "git_blob_sha": "29bcf93ab44c734b8634df50cc95a156d0d742c6",
+    "size": 1577736
+  },
+  {
+    "path": "游狼鼠标固件/HTR Pro/HTR_PRO/HTR_Pro_8K Firmware/Stable Version/1.0.0.39/★ReadMeFirst.txt",
+    "sha256": "fc424a3e58c6fcd87599516fa533dc940f85b1f2b1d9514df6eb4539f4a23e03",
+    "git_blob_sha": "e48cb99a49003ff87a9593e56505e50e972ad5c7",
+    "size": 1302
+  },
+  {
+    "path": "游狼鼠标固件/HSK Pro ACE/HSK_PRO_ACE/G-Wolves_HSK_Pro_1k_Firmware/0171KM20230824.exe",
+    "sha256": "bd52eafae8f930e3082dd6a3e07655d250a1ee985a2254dccb92022791345feb",
+    "git_blob_sha": "adefcadfc83ff09e87908b54b491fe83955c23ac",
+    "size": 1519360
+  },
+  {
+    "path": "游狼鼠标固件/HSK Pro ACE/HSK_PRO_ACE/G-Wolves_HSK_Pro_1k_Firmware/0171KR20230824.exe",
+    "sha256": "9fb14e2b7dd248b0d200038df9d94df1c9d239918a417d265ea6985f416ee958",
+    "git_blob_sha": "ecc1f84d1a4d74181ccb2d4558713adb4ecb06f9",
+    "size": 1447800
+  },
+  {
+    "path": "游狼鼠标固件/HSK Pro ACE/HSK_PRO_ACE/╣╠╝■╔²╝╢╦╡├≈╩Θ.txt",
+    "sha256": "702e3e9843751a18c1dd05e88eb4d26fb7dec8b746e7ae45b13b23dc8e25ce24",
+    "git_blob_sha": "7a3023c7c3a88d302155d829c306b60b4867752c",
+    "size": 893
+  },
+  {
+    "path": "游狼鼠标固件/HSK Pro ACE/HSK_PRO_ACE/Mouse Firmware Upgrade User Manual.txt",
+    "sha256": "d54f4ce1040d9e390d340c1d9c853ae7568dd961347518842c5747a5c55d1986",
+    "git_blob_sha": "417491f20774e54b3e51f1b356b40496a83c9b39",
+    "size": 1145
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/★ReadMeFirst-EN.txt",
+    "sha256": "bbbe59eea904bd3911316388796564559180e9623eb4565a045971c3fff029ad",
+    "git_blob_sha": "555a4139144f4916b7f9ceda54121a5fce00414e",
+    "size": 4578
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/★ReadMeFirst-中文.txt",
+    "sha256": "dd9c1d2664cc86c1aa248116ea5664fa77eb30ed41193dfbcc5f24f3c16fb2a5",
+    "git_blob_sha": "d91257b2a0ee0fd19c6e4959cd2a33fa7df95568",
+    "size": 4510
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/Step1-Dongle/Receiver_V5.01.bin",
+    "sha256": "0c7dc80e1619ddf7f6b389152e3c8552785a540d4bfbb318cff87c1dc4617cc1",
+    "git_blob_sha": "790e8edc9b179ca1d0bac3ea9326e986488b5e41",
+    "size": 81840
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/Step1-Dongle/Receiver_V5.01.exe",
+    "sha256": "09d3968d4439e4fce41add0960729daf32d4c614fd9f7fe358bcf536a5800531",
+    "git_blob_sha": "cd6b9b17cbf4154f8a7e5d85307fe2773bf01a3a",
+    "size": 8447488
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/Step2-Mouse/HTS_PLUS_8K_3950-V5.05.bin",
+    "sha256": "a2f3c0f4f6b06132eba2742797f58645b2f9869e653e41ec6f2c329eae8ba8ef",
+    "git_blob_sha": "a143e15bda751e129bc11a4a72e8c4de63108a50",
+    "size": 294608
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.05/Step2-Mouse/HTS_PLUS_8K_3950-V5.05.exe",
+    "sha256": "c8d91319f6c549cc561a13207144b7013109cd9cb0997b0d01779263b635c565",
+    "git_blob_sha": "74a87b120db3526a9b8f5b44e4fa5510b3a2fde5",
+    "size": 8660480
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/★ReadMeFirst-EN.txt",
+    "sha256": "63e6fe7db77eae5deb40173c36bc0e9a90503ba6c168f448d68fa43d0917a3db",
+    "git_blob_sha": "021f39c093aa17e29acf3ec294d0b86af5d87251",
+    "size": 4577
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/★ReadMeFirst-中文.txt",
+    "sha256": "0db4f2144847ae43a598178964024fbd5b816875194fa9a843e616426ff2adcb",
+    "git_blob_sha": "1175988643692003e743a6726ed83d58f278d0a7",
+    "size": 4509
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/step2-mouse/HTS_PLUS_8K_3950-V5.11.bin",
+    "sha256": "3f24c608b972ac7cbbcc40332b49f26f2fb2989555d566ceb733375abe4138c9",
+    "git_blob_sha": "9b519785d20e5d9c18454f25c9f9a975cde9ebd8",
+    "size": 299120
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.11/step2-mouse/HTS_PLUS_8K_3950-V5.11.exe",
+    "sha256": "84553a472049eb59cbfbc6c81b7ef3c6f0b37543f45274e4d42c80b5006b23f4",
+    "git_blob_sha": "197602cae619a46a69f806850c5491ee4693be9f",
+    "size": 8834560
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/★ReadMeFirst-EN.txt",
+    "sha256": "04be264f37959fd94b06a090d7464822b247cfd400bf33701c54543bcf814005",
+    "git_blob_sha": "1f74993f4dd9b5c7147b6d26a54883866aa5d3fa",
+    "size": 4577
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/★ReadMeFirst-中文.txt",
+    "sha256": "ed494df78511a42c5b591eda08c825dccd32b302f409355f7f52f0982a4f8962",
+    "git_blob_sha": "06a0e258faaf1ba4d4e11a8c87ee72871d760cc0",
+    "size": 4509
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/step2-mouse/HTS_PLUS_8K_3950-V5.21.bin",
+    "sha256": "fd8da948cdca90fcaf5703d7059d2eb54f7f8a107ca24740d2fa1d5112c4e151",
+    "git_blob_sha": "c8036d788505743a89dab385de6cc0c4938bd69f",
+    "size": 299360
+  },
+  {
+    "path": "游狼鼠标固件/HTS Plus/JM_054_3950/HTS_Plus_8K_3950/054-3950-V5.21/step2-mouse/HTS_PLUS_8K_3950-V5.21.exe",
+    "sha256": "eac84960e77c602f71a7625a9c89a98c504cf3bc97434b716740190f939d82f0",
+    "git_blob_sha": "5b6a42b114b9f3d892a0b80578ba39f2adf6c5b1",
+    "size": 8566272
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/★ReadMeFirst-EN.txt",
+    "sha256": "ccede3d4e91b0d7f9b3a73d49be7e0dcc9472cc38cf8fe99bcbdfbd5ab21e459",
+    "git_blob_sha": "4e8f1ecd3a4c3bf29f587529d30360c9c2e900e2",
+    "size": 4573
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/★ReadMeFirst-中文.txt",
+    "sha256": "3061dd84e7df316a94eb7202c24630c8739bd3f9e4957aab16dadec53527b19b",
+    "git_blob_sha": "37e392ecc1ec59d341d7de532abf5697461e22dd",
+    "size": 4505
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/step2-mouse/htx_ultra_3950_V5.11.bin",
+    "sha256": "cd3d0188ec5f6ac72678156db6b052b8c2af3d59e162a60ff51edf701cd6284c",
+    "git_blob_sha": "2ff30be87c63d6b765ae7e65ecdc3b185ad358dc",
+    "size": 299120
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.11/step2-mouse/htx_ultra_3950_V5.11.exe",
+    "sha256": "f1928c559214a539dccfd6ad7bec803995195782640f540a760b8371a3e94cc3",
+    "git_blob_sha": "71a1c52c49e603a4dadbd5586a3f0316b5d2cdaf",
+    "size": 8834560
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/★ReadMeFirst-EN.txt",
+    "sha256": "6bae65bab182646281fa65013b8f47f47ecb8241494d644d1737509aa128c387",
+    "git_blob_sha": "d3cb76630dbc9a86e90129ff23de49463949b877",
+    "size": 4573
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/★ReadMeFirst-中文.txt",
+    "sha256": "546fb7e72c7c46872d7f6b867cafa1b1edf822247b076777e29c9e1a1ff0874f",
+    "git_blob_sha": "ef05fe515af2a2d72236905613d4bd2016a29563",
+    "size": 4505
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/step2-mouse/htx_ultra_3950_V5.21.bin",
+    "sha256": "e666a82a5bc33998d81882954c4a0b86c4c782b05844aaf850e35891a5a66d94",
+    "git_blob_sha": "83dc462b7d23d5e0181f0d4d9562efa883a78398",
+    "size": 299360
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3950/htxultra-3950/htxultra-3950-V5.21/step2-mouse/htx_ultra_3950_V5.21.exe",
+    "sha256": "bee44370b4f09d3bbe66bc29be8928fcb3576bb8dcfa2235a4e7e4e4d9d2f04f",
+    "git_blob_sha": "f9ef1b8423a144960e5a8d7a0f30dc8106857068",
+    "size": 8835584
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/★ReadMeFirst-EN.txt",
+    "sha256": "c3b73982f8ece19b9bc7b8d4bceb3204021a2a82b1fc8da8faf71f8108a7bc09",
+    "git_blob_sha": "c59437789be4da03361ca6fae6a04bc44f68329f",
+    "size": 4573
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/★ReadMeFirst-中文.txt",
+    "sha256": "8e73a74a97c35523ead6676ee545d730d1b03811f9317f3a725c3b59464d82ee",
+    "git_blob_sha": "0e0d791a673ec7c5305b5d0c9914b34e2c635be5",
+    "size": 4505
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/step2-mouse/htx_ultra_3955_V5.11.bin",
+    "sha256": "00cb955e1ddc068bdf4fffac94eb33af35ba4c60d247898626cd69e6d20d360e",
+    "git_blob_sha": "d49fb8e4c095a34d3df4889bae50685bd39144b0",
+    "size": 311168
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.11/step2-mouse/htx_ultra_3955_V5.11.exe",
+    "sha256": "1c301676ffb7063a3dcb74742eb3187c7fe88021b468bd350a4f3cce1bb081d8",
+    "git_blob_sha": "1c7c86a827ca4a5ce18f6e1fc57004e61cd080a3",
+    "size": 8846336
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/★ReadMeFirst-EN.txt",
+    "sha256": "c39419b1ade742ed994334b2dcb787e6c693852e9ffbe99e79a790e5735a463a",
+    "git_blob_sha": "1ea30f6303ba839b52de83a827e8755f55ce3295",
+    "size": 4573
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/★ReadMeFirst-中文.txt",
+    "sha256": "4f20beae1cd8702dd542e7ac2410867ca27b9eaa49a6d6831dca26958ea54570",
+    "git_blob_sha": "176551321b82f2c3ed209303356b516d984a7597",
+    "size": 4505
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/step1-dongle/ReceiverV5.02.bin",
+    "sha256": "389a7f9797ab14df6b1e0c58dfc0d31e6641e8746330a3089f59527b3401d4c9",
+    "git_blob_sha": "237ae88a6f58c50ae712f0a04742819251482860",
+    "size": 81872
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/step1-dongle/ReceiverV5.02.exe",
+    "sha256": "fd0d4bde97532a07bd88b5d36a8ee68f84b423d0d324306f0e63f98efe61451f",
+    "git_blob_sha": "d12dc3b3b1c73505541758ba2d5b157eed6b6bc8",
+    "size": 8617472
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/step2-mouse/htx_ultra_3955_V5.21.bin",
+    "sha256": "74c5843197ce255dee213adb3aaa4aa1b2cfcb3df8ef2825d5406c565f6806c5",
+    "git_blob_sha": "52306f031e947df65f03e08620722d4067a91da7",
+    "size": 311408
+  },
+  {
+    "path": "游狼鼠标固件/HTX Ultra/JM_056_3955/htxultra-3955/htxultra-3955-V5.21/step2-mouse/htx_ultra_3955_V5.21.exe",
+    "sha256": "d73bc84c316dd01514870176a48637707f8dede61dec7fa8129d40be230b85e6",
+    "git_blob_sha": "469d095cd49fd51dbac102847d4f2ffedc881b48",
+    "size": 8847872
+  }
+]

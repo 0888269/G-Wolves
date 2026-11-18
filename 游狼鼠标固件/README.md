@@ -1,0 +1,116 @@
+# mouse.fit 固件归档
+
+来源：https://www.mouse.fit/#/
+
+GW 为芯谷方案，JM 为匠盟方案；未明确标记的配置保留网站原始标识，不推断方案商。Asym 为独立型号；3950/3955 为不同传感器。不同方案及硬件版本不可混刷。文件仅归档，未执行固件或验证硬件兼容性。原配对工具目录不变。
+
+## 来源及收录状态
+
+- HTM Plus / `GW_058`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/GW_058/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/HTM_Plus_54XG.zip
+- HSK Pro 2.0 / `GW_017_54`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/GW_017_54/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/HSK_Pro_V2.0_54XG.zip
+- HTXU / `GW_056`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/GW_056/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/HTX_Ultra_54XG.zip
+- Fenrir Pro / `GW_036`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/GW_036/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/Fen_Pro_54XG.zip
+- VUK / `VUK`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/VUK/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/25-157-VUK/G-Wolves_VUK_8K.zip
+- HT-S2 / `HTS2`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTS2/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/27-07901-HT-S2/HT-S2_Firmware.zip
+- Fenir Max / `Fenir`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/Fenir/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/31-03703FENMAX/Fen_Max.zip
+- HTS Ultra / `HTS_ULTRA`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/HTS_ULTRA/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/26-053-HTSULTRA/HTS_Ultra_Mouse.zip
+- HTR / `HTR`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTR/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/29-07701-HTR/HTR_Firmware.zip
+- Fenrir / `Fenir_asym`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/Fenir_asym/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/30-03701-FENASYM/Fen_Asym_XG.zip
+- HT-S2 Pro / `HTS2_PRO`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTS2_PRO/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/19-079-02-HT-S2/HT-S2_Pro_Firmware.zip
+- HSK Pro / `HSK_PRO`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HSK_PRO/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/20-017-HSKPRO/HSK_Pro_Firmware.zip
+- HTX Mini / `HTX_MINI`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTX_MINI/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/14-027-HTX_Mini_8k_XG/HTX_Mini_Firmware.zip
+- HTS Plus / `HTS_PLUS`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/HTS_PLUS/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/17-054-HTSPLUS/HTS_Plus_Firmware.zip
+- HTX / `HTX`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTX/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/16-057-HTX/HTX_Firmware.zip
+- HSK Plus / `HSK_PLUS`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HSK_PLUS/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/23-072-HSKPLUS/HSK_Plus_Firmware.zip
+- HSK Lite / `HSK_LITE`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/HSK_LITE/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/22-072-HSKPLUSLITE/HSK_PLUS_LITE_MOUSE.exe
+- HTR Pro / `HTR_PRO`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/HTR_PRO/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/28-07702-HTRPro/HTR_Pro_8K.zip
+- HSK Pro ACE / `HSK_PRO_ACE`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/HSK_PRO_ACE/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/21-017-HSKPROACE/HSK_Pro_ACE_Mouse_FW.zip
+- HTS Plus ACE / `HTS_PLUS_ACE`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTS_PLUS_ACE/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/18-054-HTSPLUSACE/HTS_Plus_1K_FW.zip
+- HTX ACE / `HTX_ACE`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/HTX_ACE/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/15-056-HTXACE/HTX_ACE_Mouse_FW1.0.6.zip
+- HSK Plus ACE / `HSK_PLUS_ACE`：暂无下载链接
+  - 来源：https://www.mouse.fit/Config/HSK_PLUS_ACE/FWLINK.txt
+  - 下载：
+- HTS Plus / `JM_054_3950`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/JM_054_3950/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/01-054-HTS_Plus_8K/3950/HTS_Plus_8K_3950JM.zip
+- Lycan / `JM_047_3950`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/JM_047_3950/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/03-047-LYCAN_8K/3950/LYCAN_8K_3950JM.zip
+- HTXU / `JM_056_3950`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/JM_056_3950/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/02-056-htxultra/3950/htxultra-3950JM.zip
+- Lycan / `JM_047_3955`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/JM_047_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/03-047-LYCAN_8K/3955/LYCAN_8K_3955JM.zip
+- HTXU / `JM_056_3955`：已收录解压文件
+  - 来源：https://www.mouse.fit/Config/JM_056_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/02-056-htxultra/3955/htxultra-3955JM.zip
+- HTS Plus / `JM_054_3955`：已下载，但上传中断，尚未收录
+  - 来源：https://www.mouse.fit/Config/JM_054_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/01-054-HTS_Plus_8K/3955/HTS_Plus_8k_3955JM.zip
+- Fenrir Pro / `JM_036_3955`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/JM_036_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/05-036-FEN_Pro_8K/3955/FEN_Pro_8K_3955JM.zip
+- HTX Mini / `JM_027_3955`：已下载，但上传中断，尚未收录
+  - 来源：https://www.mouse.fit/Config/JM_027_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/06-027-HTX_Mini/HTX_MiniJM.zip
+- WARG / `JM_042_3955`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/JM_042_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/11-042-Warg_8K/3955/Warg_8K_3955JM.zip
+- HTS Plus Pro / `JM_052_3955`：已下载，但上传中断，尚未收录
+  - 来源：https://www.mouse.fit/Config/JM_052_3955/FWLINK.txt
+  - 下载：https://www.mouse.fit/firmware/10-052-HTS_PLUS_Pro_8K/3955/HTS_PLUS_Pro_8K_3955JM.zip
+- Fenrir Asym / `JM_035_3955`：暂无下载链接
+  - 来源：https://www.mouse.fit/Config/JM_035_3955/FWLINK.txt
+  - 下载：
+- HTX Mini Asym / `JM_026_3955`：暂无下载链接
+  - 来源：https://www.mouse.fit/Config/JM_026_3955/FWLINK.txt
+  - 下载：
+- Fenir Max Asym / `JM_016_3955`：暂无下载链接
+  - 来源：https://www.mouse.fit/Config/JM_016_3955/FWLINK.txt
+  - 下载：
+- VUK Mini / `JM_021_3955`：下载失败，尚未收录此次下载包
+  - 来源：https://www.mouse.fit/Config/JM_021_3955/FWLINK.txt
+  - 下载：https://www.mouse.xyz/Firmware/VUK/VUK-8K Mouse 01.00.40.03.zip
